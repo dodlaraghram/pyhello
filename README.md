@@ -1,1 +1,1 @@
-[![Build Status](https://dev.azure.com/projectforselfh/projectselfhost/_apis/build/status%2F03-buildandpushtoacraddedcopyandpublish?branchName=master)](https://dev.azure.com/projectforselfh/projectselfhost/_build/latest?definitionId=48&branchName=master)
+
